@@ -31,7 +31,7 @@ My client work lives in private repositories, so my side projects are run the sa
 | **Recipe Randomizer**: find recipes from what's already in your kitchen | [Brief](https://github.com/josephvillanueva/RecipeRandomizerNext/blob/main/docs/PRODUCT.md) | [v1.1](https://github.com/josephvillanueva/RecipeRandomizerNext/milestone/1) | [Live](https://recipe-randomizer-next.vercel.app/) |
 | **GIPHY Clone**: find the right reaction GIF and send it in seconds | [Brief](https://github.com/josephvillanueva/GIPHY-Clone/blob/main/docs/PRODUCT.md) | [v1.1](https://github.com/josephvillanueva/GIPHY-Clone/milestone/1) | [Live](https://giphy-clone.vercel.app/) |
 
-My story, bug and pull-request templates are in [`.github`](https://github.com/josephvillanueva/.github).
+All backlogs roll up into one prioritized [**Product Roadmap**](https://github.com/users/josephvillanueva/projects/1) board. My story, bug and pull-request templates are in [`.github`](https://github.com/josephvillanueva/.github).
 
 ## Toolkit
 
