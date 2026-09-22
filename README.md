@@ -28,8 +28,8 @@ My client work lives in private repositories, so I run my side projects the same
 
 | Product | What it shows | Try it |
 | --- | --- | --- |
-| **Spend Master**: procurement spend analytics | Role-based views for group and business-unit heads, contract coverage, supplier overlap, optional AI findings scoped to each viewer's data | [Live](https://spend-master-demo.netlify.app/) |
-| **Fraud Master**: credit memo risk review | A rules engine that routes credit memos to Investigate, Review, or Straight-through, with views for reviewers, leads, controls, and audit | [Live](https://fraud-master-demo.netlify.app/) |
+| **Spend Master**: procurement spend analytics | Role-based views for group and business-unit heads, contract coverage, supplier overlap, optional AI findings scoped to each viewer's data | [Code](https://github.com/josephvillanueva/spend-master) · [Live](https://spend-master-demo.netlify.app/) |
+| **Fraud Master**: credit memo risk review | A rules engine that routes credit memos to Investigate, Review, or Straight-through, with views for reviewers, leads, controls, and audit | [Code](https://github.com/josephvillanueva/fraud-master) · [Live](https://fraud-master-demo.netlify.app/) |
 | **Backlog Board**: a TanStack Query demo | Optimistic updates with rollback, per-filter caching, and simulated failures | [Code](https://github.com/josephvillanueva/react-query) · [Live](https://react-query-josephvillanueva.vercel.app/) |
 | **AI Object Detector**: detection that never leaves the device | Product brief, backlog, and in-browser TensorFlow.js | [Brief](https://github.com/josephvillanueva/ai-object-detector/blob/master/docs/PRODUCT.md) · [Live](https://ai-object-detector-josephvillanueva.vercel.app/) |
 | **Recipe Randomizer**: cook with what you have | Product brief, backlog, and a server-side API proxy | [Brief](https://github.com/josephvillanueva/RecipeRandomizerNext/blob/main/docs/PRODUCT.md) · [Live](https://recipe-randomizer-next.vercel.app/) |
