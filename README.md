@@ -2,7 +2,7 @@
 
 **Systems Analyst | Business Analysis & Product Ownership | UI/UX Strategy**
 
-I turn business problems into backlogs a team can ship, and I can read the code that delivers them. I'm a Systems Analyst and UI/UX Lead at **SMITS, Inc.** (the IT company of San Miguel Corporation), where I support Product Owner work, and I came to product through frontend engineering. Based in Pasig City, PH.
+I turn business problems into backlogs a team can ship, and I can read the code that delivers them. I'm a Systems Analyst and UI/UX Lead at **SMITS, Inc.** (the IT company of San Miguel Corporation), where I support Product Owner work and contribute to the company's AI governance, and I came to product through frontend engineering. Based in Pasig City, PH.
 
 ## How I work
 
@@ -10,13 +10,13 @@ I turn business problems into backlogs a team can ship, and I can read the code 
 - **Acceptance criteria you can test.** If QA can't check it, it isn't done. I write Given / When / Then.
 - **Scope is a decision.** Every brief and story says what's out of scope, so "no" is written down, not argued in a sprint.
 - **Feasibility before commitment.** Having shipped React and Next.js apps myself, I size effort with developers instead of guessing, and I surface edge cases before refinement, not during it.
-- **AI with guardrails.** I use AI to get from idea to a working prototype quickly, and I design for safe use: role-scoped data, masking before anything reaches a model, and results that still work without AI.
+- **AI with guardrails.** I use AI to get from idea to a working prototype quickly, and I design for safe use: role-scoped data, masking before anything reaches a model, and results that still work without AI. At SMITS, that carries into AI governance.
 
 ## Experience
 
 | Where | What I did |
 | --- | --- |
-| **SMITS, Inc.** · Systems Analyst - UI/UX Lead | Turn business needs into requirements, user flows, and acceptance criteria. Support Product Owner work through backlog refinement, prioritization, client workshops, and solution reviews. Trained 50 colleagues across BA, PM, SA, development, and QA in UI/UX, and help govern the SMITS design system. |
+| **SMITS, Inc.** · Systems Analyst - UI/UX Lead | Turn business needs into requirements, user flows, and acceptance criteria. Support Product Owner work through backlog refinement, prioritization, client workshops, and solution reviews. Trained 50 colleagues across BA, PM, SA, development, and QA in UI/UX, and help govern the SMITS design system. Part of AI governance at SMITS, evaluating AI-assisted workflows for formal and responsible use across requirements, design, development, testing, and documentation. |
 | **Mashup Garage** · Software Developer - Frontend | Led the redesign and performance optimization of Metrobank's branding website, and served as the frontend team's informal technical lead. |
 | **Senti AI** · Junior Cloud Engineer | Helped define requirements for the OCR and Google Cloud services behind a finance-processing portal that digitizes 50,000+ files a month. |
 | **Anteriore** · Frontend Developer | Built Playible.io (now shut down) and led its technical transition to NEAR Protocol and GraphQL. |
@@ -41,7 +41,7 @@ The briefs cover problem, users, decisions, scope, and success measures, and eve
 
 - **Product:** discovery, requirements and user stories, acceptance criteria, backlog refinement and prioritization, stakeholder workshops, Jira
 - **UX:** user flows, prototyping, design systems, UX standards and training, Figma
-- **AI:** AI-assisted prototyping, prompt engineering, LLM app integration, privacy-aware data masking; Claude, ChatGPT, Gemini, GitHub Copilot
+- **AI:** AI governance, responsible AI use, AI-assisted prototyping, prompt engineering, LLM app integration, privacy-aware data masking; Claude, ChatGPT, Gemini, GitHub Copilot
 - **Technical:** React, Next.js, TypeScript, Tailwind CSS, GraphQL, REST APIs, Node.js, Google Cloud
 
 ## Contact
