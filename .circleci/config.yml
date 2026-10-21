@@ -1,0 +1,20 @@
+version: 2.1
+
+jobs:
+  validate-docs:
+    docker:
+      - image: cimg/python:3.12
+    resource_class: small
+    steps:
+      - checkout
+      - run:
+          name: Install pinned documentation validators
+          command: python -m pip install --disable-pip-version-check -r .circleci/requirements.txt
+      - run:
+          name: Validate Markdown, local file links, and YAML
+          command: python .circleci/validate_docs.py
+
+workflows:
+  documentation:
+    jobs:
+      - validate-docs
